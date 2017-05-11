@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="karaokeScore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/karaokeScore_jar</output-path>
+    <root id="archive" name="karaokeScore.jar">
+      <element id="module-output" name="karaokeScore" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/TarsosDSP-latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
